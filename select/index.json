@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "base_track": "Depend on you",
+  "base_artist": "Ayumi Hamasaki",
+  "createdAt": "2026-02-17T19:15:42.159687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why Did I Always Depend On You",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/01_Why_Did_I_Always_Depend_On_You_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why Did I Always Depend on You?",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/02_Why_Did_I_Always_Depend_on_You_Billie_Holiday.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DEPEND ON YOU",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_DEPEND_ON_YOU_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Depend on you (Svenson & Gielen remix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/04_Depend_on_you_(Svenson_&_Gielen_remix)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Depend on you \"Svenson & Gielen remix\"",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/05_Depend_on_you__Svenson_&_Gielen_remix_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Depend on you",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/06_Depend_on_you_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Depend on you",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/07_Depend_on_you_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DEPEND ON YOU",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/08_DEPEND_ON_YOU_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Depend On You (A Best - 15th Anniversary Edition)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/09_Depend_On_You_(A_Best_-_15th_Anniversary_Edition)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Depend on you(A BEST -15th Anniversary Edition-)",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/10_Depend_on_you(A_BEST_-15th_Anniversary_Edition-)_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Depend on You",
+      "artist": "Neuroticfish",
+      "has_synced": true,
+      "path": "select/11_Depend_on_You_Neuroticfish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Depend on you (44XL DUB)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/12_Depend_on_you_(44XL_DUB)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Depend on you (BODYGUARD MIX)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/13_Depend_on_you_(BODYGUARD_MIX)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Depend on you (dub's electro remix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/14_Depend_on_you_(dub's_electro_remix)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Depend On You (Svenson & Gielen Mix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/15_Depend_On_You_(Svenson_&_Gielen_Mix)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Depend on you",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/16_Depend_on_you_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Can Depend on Me",
+      "artist": "Dave Brubeck",
+      "has_synced": false,
+      "path": "select/17_You_Can_Depend_on_Me_Dave_Brubeck.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You Can Depend On Me - 20-Bit Mastering/1999 Digital Remaster",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/18_You_Can_Depend_On_Me_-_20-Bit_Mastering_1999_Digital_Remaster_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "You Can Depend On Me (20-Bit Mastering\u00001999 Digital Remaster)",
+      "artist": "Nat King Cole",
+      "has_synced": false,
+      "path": "select/19_You_Can_Depend_On_Me_(20-Bit_Mastering\u00001999_Digital_Remaster)_Nat_King_Cole.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Depend on Myself",
+      "artist": "TLC",
+      "has_synced": false,
+      "path": "select/20_Depend_on_Myself_TLC.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Depend on Myself",
+      "artist": "TLC",
+      "has_synced": true,
+      "path": "select/21_Depend_on_Myself_TLC.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Depend On Me",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/22_Depend_On_Me_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "You Can Depend On Me",
+      "artist": "The Platters",
+      "has_synced": false,
+      "path": "select/23_You_Can_Depend_On_Me_The_Platters.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "You Can Depend On Me",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/24_You_Can_Depend_On_Me_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Can't Depend on Love",
+      "artist": "Gordon Lightfoot",
+      "has_synced": false,
+      "path": "select/25_Can't_Depend_on_Love_Gordon_Lightfoot.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Can’t Depend on Love",
+      "artist": "Gordon Lightfoot",
+      "has_synced": false,
+      "path": "select/26_Can’t_Depend_on_Love_Gordon_Lightfoot.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "(You Can) Depend On Me",
+      "artist": "The Miracles",
+      "has_synced": false,
+      "path": "select/27_(You_Can)_Depend_On_Me_The_Miracles.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "No One to Depend On",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/28_No_One_to_Depend_On_Santana.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "No One To Depend On",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/29_No_One_To_Depend_On_Santana.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "No One To Depend On",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/30_No_One_To_Depend_On_Santana.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "No One To Depend On",
+      "artist": "Santana",
+      "has_synced": true,
+      "path": "select/31_No_One_To_Depend_On_Santana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Depend on you",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Depend_on_you_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Depend On You",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_02_Depend_On_You_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Depend On You",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_03_Depend_On_You_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Depend on you",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_04_Depend_on_you_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Depend on you",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_05_Depend_on_you_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Depend on you",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_06_Depend_on_you_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Depend on you(New Vocal&Mix)",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_07_Depend_on_you(New_Vocal&Mix)_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Depend on you (10th Anniversary version)",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_08_Depend_on_you_(10th_Anniversary_version)_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Depend on you (10th Anniversary version)",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_09_Depend_on_you_(10th_Anniversary_version)_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Depend on you [Eurosenti Mix]",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_10_Depend_on_you_[Eurosenti_Mix]_浜崎_あゆみ.txt"
+    }
+  ]
+}
